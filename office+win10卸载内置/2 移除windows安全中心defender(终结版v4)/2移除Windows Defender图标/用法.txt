@@ -1,0 +1,8 @@
+Windows10 1803、1809系统移除Windows Defender图标方法：
+先以管理员身份运行“1右键以管理员身份运行.bat”
+再按照图2 、图3操作即可。
+
+===========================================
+Windows10 1709 、1903 。。。，如上面方法不能移除图标，可用以下方法移除：
+先在其他管理员帐户上运行“1右键以管理员身份运行.bat”，然后再新建你需要的帐户，Windows Defender安全中心图标就彻底消失了。
+比如：你要用Administrator帐户，那么要在还没有启用过Administrator帐户之前，先在初始安装的帐户上彻底移除Windows Defender，然后再启用Administrator帐户，这样Windows Defender图标就消失。 

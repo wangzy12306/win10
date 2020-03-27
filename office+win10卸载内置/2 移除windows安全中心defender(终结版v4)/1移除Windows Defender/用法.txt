@@ -1,0 +1,2 @@
+右键以管理员身份运行Uninstall.cmd 彻底删除Windows Defender组件
+然后重启电脑生效（此步操作后一定要重启电脑才能完成卸载）
