@@ -9,7 +9,7 @@ msdn下载最新iso
 用 4 Win10Apps.exe 卸载win10 内置应用
 用 5 禁止系统更新 文件禁止系统更新
 
-office2016 增强版在网盘中
+office2016 增强版在网盘中  SW_DVD5_Office_Professional_Plus_2016_64Bit_ChnSimp_MLF_X20-42426.rar
 
 去除小箭头: 删除HKEY_CLASSES_ROOT\lnkfile下的IsShortcut
 去除兼容性疑难解答: 删除 HKEY_CLASSES_ROOT\exefile\shellex\ContextMenuHandlers\Compatibility 文件夹
